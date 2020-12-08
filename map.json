@@ -20522,7 +20522,7 @@
         {
          "columns":16,
          "firstgid":5550,
-         "image":"..\/..\/Downloads\/gallery_2908_197_170327.png",
+         "image":"tilesets\/gallery_2908_197_170327.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -20535,7 +20535,7 @@
         {
          "columns":23,
          "firstgid":5806,
-         "image":"..\/..\/Downloads\/virtual_tournament_room_tileset_by_princess_phoenix_dauv6zv.png",
+         "image":"tilesets\/virtual_tournament_room_tileset_by_princess_phoenix_dauv6zv.png",
          "imageheight":400,
          "imagewidth":752,
          "margin":0,
